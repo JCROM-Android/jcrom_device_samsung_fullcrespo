@@ -22,3 +22,5 @@
 $(call inherit-product, device/samsung/crespo/device.mk)
 $(call inherit-product-if-exists, vendor/samsung/crespo/device-vendor.mk)
 $(call inherit-product-if-exists, jcrom/samsung/fullcrespo/device-fullcrespo.mk)
+$(call inherit-product-if-exists, jcrom/common/common.mk)
+

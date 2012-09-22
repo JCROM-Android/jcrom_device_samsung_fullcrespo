@@ -38,5 +38,5 @@ $(call inherit-product, device/samsung/fullcrespo/device.mk)
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := full_fullcrespo
 PRODUCT_DEVICE := fullcrespo
-PRODUCT_BRAND := samsung
-PRODUCT_MODEL := JCROM on Nexus S
+PRODUCT_BRAND := Google
+PRODUCT_MODEL := Nexus S
